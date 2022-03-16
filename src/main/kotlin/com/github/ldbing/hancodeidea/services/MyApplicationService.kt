@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ldbing.hancodeidea.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ldbing.hancodeidea.MyBundle
 
 class MyApplicationService {
 
